@@ -11,7 +11,7 @@ AI Research Assistant is an intelligent research agent built using **LangChain**
 - 📊 **Multi-Source Aggregation**: Collect data from multiple sources for a comprehensive research overview.
 
 ## Tech Stack
-- **Backend**: LangChain, OpenAI/LLM-powered models
+- **Backend**: LangChain, GPT-4o
 - **Frontend**: Streamlit
 - **Integration**: API connectors for external data sources
 
