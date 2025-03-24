@@ -33,7 +33,7 @@ Before installation, ensure you have the following dependencies installed:
 2. **Create a Virtual Environment (Optional but Recommended)**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   venv\Scripts\activate  # On Windows use `source venv/bin/activate`
    ```
 
 3. **Install Dependencies**
